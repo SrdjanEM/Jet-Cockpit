@@ -1,0 +1,6 @@
+Sensor list:
+MIKROE-1719	MPU 9DOF Click,
+MIKROE-3217	IR Grid 3 click,
+MIKROE-1489	Altitude click,
+MIKROE-2264	Compass 2 click,
+MIKROE-4677	Air Flow click
